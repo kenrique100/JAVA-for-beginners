@@ -1,4 +1,4 @@
-package org.example.singleObjectsAndClass;
+package org.example.singleObjectAndSingleClass;
 
 public class Main {
     public static void main(String[] args) {
