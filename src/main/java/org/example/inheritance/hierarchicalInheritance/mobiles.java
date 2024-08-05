@@ -1,4 +1,4 @@
-package org.example.singleInheritance;
+package org.example.inheritance.hierarchicalInheritance;
 
 public class mobiles {
     String cost;

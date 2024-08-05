@@ -1,4 +1,4 @@
-package org.example.singleInheritance;
+package org.example.inheritance.singleInheritance;
 
 public class Main {
     public static void main(String[] args) {
