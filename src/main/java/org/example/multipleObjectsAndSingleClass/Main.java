@@ -8,14 +8,14 @@ public class Main {
 
         Scanner s = new Scanner(System.in);
         // Creating objects for cars
-        Cars car1 = new Cars();
-        Cars car2 = new Cars();
-        Cars car3 = new Cars();
+        cars car1 = new cars();
+        cars car2 = new cars();
+        cars car3 = new cars();
 
         // Creating objects for bike
-        Bikes bike1 = new Bikes();
-        Bikes bike2 = new Bikes();
-        Bikes bike3 = new Bikes();
+        bikes bike1 = new bikes();
+        bikes bike2 = new bikes();
+        bikes bike3 = new bikes();
 
         // Assigning values to objects
         car1.name = "Lamborghini";

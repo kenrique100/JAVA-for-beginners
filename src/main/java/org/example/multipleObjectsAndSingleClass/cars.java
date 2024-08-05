@@ -1,6 +1,6 @@
 package org.example.multipleObjectsAndSingleClass;
 
-public class Cars {
+public class cars {
     String name;
     String color;
     String cost;
