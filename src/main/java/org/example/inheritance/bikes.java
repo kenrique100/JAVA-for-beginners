@@ -1,31 +1,11 @@
 package org.example.inheritance;
 
-public class bikes {
-    private double fuel;
-    private int year;
-    private String brand;
-
-    public double getFuel() {
-        return fuel;
+public class bikes extends automobiles{
+    public bikes() {
+        System.out.println("A new bike has been created");
     }
 
-    public void setFuel(double fuel) {
-        this.fuel = fuel;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
-    }
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
+    public void kick() {
+        System.out.println("The bike has been started with a kick");
     }
 }
