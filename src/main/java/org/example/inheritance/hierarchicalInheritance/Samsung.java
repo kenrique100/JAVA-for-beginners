@@ -1,4 +1,4 @@
 package org.example.inheritance.hierarchicalInheritance;
 
-public class samsung extends android {
+public class Samsung extends Android {
 }

@@ -1,4 +1,4 @@
-package org.example.inheritance.multiInheritance;
+package org.example.inheritance.multiLevelInheritance;
 
 public class Main {
     public static void main(String[] args) {

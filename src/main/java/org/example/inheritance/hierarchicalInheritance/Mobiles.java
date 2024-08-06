@@ -1,6 +1,6 @@
-package org.example.inheritance.multiInheritance;
+package org.example.inheritance.hierarchicalInheritance;
 
-public class mobiles {
+public class Mobiles {
     String cost;
     String color;
     String RAM;

@@ -1,6 +1,6 @@
-package org.example.inheritance.multiInheritance;
+package org.example.inheritance.hierarchicalInheritance;
 
-public class android extends mobiles {
+public class Android extends Mobiles {
     String android_version;
 
     public String getAndroid_version() {
